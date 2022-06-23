@@ -1,5 +1,5 @@
 {
-  "name": "awilix",
+  "name": "awilix-deno",
   "version": "7.0.1",
   "description": "Extremely powerful dependency injection container.",
   "main": "lib/awilix.js",
